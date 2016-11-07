@@ -4,7 +4,7 @@ namespace Fun;
 
 class EchoCave
 {
-    public function __construct($v = 'It worked! Try giving your own value! :)')
+    public function __construct($v = 'This is me giving it my own value:)')
     {
         $this->echoSomething($v);
     }
